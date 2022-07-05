@@ -9,6 +9,10 @@ playing around with Julia
 4.  Create a `hello.jl`
 5.  Create a [binary from Julia code](https://docs.juliahub.com/PackageCompiler/MMV8C/1.2.1/devdocs/binaries_part_2.html)
 
-## Ideas for Next week
-* Performance testing vs Python
-* Create binary
+## Covered on July 5th
+
+* Strings and Numbers
+
+## Cover on July 12th
+
+* Functions
