@@ -1,6 +1,10 @@
 # julia-getting-started
 playing around with Julia
 
+## Episode 3:  More Functions
+
+
+
 
 ## Steps
 1.  [Download and add to path](https://julialang.org/downloads/platform/#linux_and_freebsd)
