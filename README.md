@@ -1,10 +1,14 @@
 # julia-getting-started
 playing around with Julia
 
+## Episode 4:  Function Piping
+
+* [function piping](https://docs.julialang.org/en/v1/manual/functions/#Function-composition-and-piping)
+
 ## Episode 3:  More Functions
 
-
-
+* Material for [today on Julia Functions](https://docs.julialang.org/en/v1/manual/functions/)  
+* 
 
 ## Steps
 1.  [Download and add to path](https://julialang.org/downloads/platform/#linux_and_freebsd)
@@ -17,6 +21,6 @@ playing around with Julia
 
 * Strings and Numbers
 
-## Cover on July 12th
+## Referencees
 
-* Functions
+* [Julia Package Management](https://docs.julialang.org/en/v1/stdlib/Pkg/)
