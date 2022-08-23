@@ -1,6 +1,15 @@
 # julia-getting-started
 playing around with Julia
 
+## Episode 7:  Types
+
+https://docs.julialang.org/en/v1/manual/types/
+
+
+## Episode 6:
+
+Cover exceptions and any final looping.
+
 ## Episode 5:
 
 Control Flow:  https://docs.julialang.org/en/v1/manual/control-flow/
