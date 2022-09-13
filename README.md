@@ -1,6 +1,10 @@
 # julia-getting-started
 playing around with Julia
 
+## Episode 8:  CLI Tools
+
+Build an add tool called `cliJuliaAddNumbers.jl`
+
 ## Episode 7:  Types
 
 https://docs.julialang.org/en/v1/manual/types/
