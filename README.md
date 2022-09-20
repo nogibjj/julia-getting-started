@@ -1,9 +1,15 @@
 # julia-getting-started
 playing around with Julia
 
+## Episode 9:  Julia Modules
+
+
+
+
 ## Episode 8:  CLI Tools
 
-Build an add tool called `cliJuliaAddNumbers.jl`
+* Build an add tool called `cliJuliaAddNumbers.jl`
+* Try out argparse for Julia:  https://carlobaldassi.github.io/ArgParse.jl/stable/
 
 ## Episode 7:  Types
 
