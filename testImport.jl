@@ -1,4 +1,4 @@
-#build an add function
+#build add function
 function add(a,b)
     return a+b
 end

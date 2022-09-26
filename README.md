@@ -3,6 +3,31 @@ playing around with Julia
 
 ## Episode 9:  Julia Modules
 
+* [See SO post on importing Julia](https://stackoverflow.com/questions/37200025/how-to-import-custom-module-in-julia)
+```julia
+include("./Hello.jl")
+using .Hello
+foo()
+```
+
+So for our example:
+
+```julia
+include("./testImport.jl")
+```
+
+Now try a directory:
+```julia
+include("./juliaModuleTest/hello.jl")
+```
+
+##### Summary
+
+* to build libraries you build a directory
+* to use them use just use the include command
+```julia
+include("./juliaModuleTest/hello.jl")
+```
 
 
 
