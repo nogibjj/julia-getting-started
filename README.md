@@ -1,6 +1,26 @@
 # julia-getting-started
 playing around with Julia
 
+## Episode 11: Metaprogramming
+
+* [metaprogramming](https://docs.julialang.org/en/v1/manual/metaprogramming/)
+
+## Episode 10: Documentation
+
+```julia
+help?> cos
+search: cos cosh cosd cosc cospi acos acosh acosd sincos sincosd sincospi const close closewrite isconst copysign chopsuffix MathConstants coalesce
+
+  cos(x)
+
+```
+
+To see documentation use include, then do ?add
+
+```julia> include("./docJulia.jl")```
+
+TO DO:  Figure out how to actually run Julia doctest.
+
 ## Episode 9:  Julia Modules
 
 * [See SO post on importing Julia](https://stackoverflow.com/questions/37200025/how-to-import-custom-module-in-julia)
