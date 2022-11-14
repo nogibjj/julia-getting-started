@@ -1,6 +1,15 @@
 # julia-getting-started
 playing around with Julia
 
+## Nov 14th- More CLI
+Basing the example from this guide of [argparse](https://carlobaldassi.github.io/ArgParse.jl/stable/)
+1.  Launch julia
+2.  type in `]` (package manager mode)
+3.  `add ArgParse`
+4.  control-c to quit
+
+
+
 ## Episode 11: Metaprogramming
 
 * [metaprogramming](https://docs.julialang.org/en/v1/manual/metaprogramming/)
