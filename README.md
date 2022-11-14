@@ -1,3 +1,5 @@
+[![Codespaces Prebuilds](https://github.com/nogibjj/julia-getting-started/actions/workflows/codespaces/create_codespaces_prebuilds/badge.svg)](https://github.com/nogibjj/julia-getting-started/actions/workflows/codespaces/create_codespaces_prebuilds)
+
 # julia-getting-started
 playing around with Julia
 
