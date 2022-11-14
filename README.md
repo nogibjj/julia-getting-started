@@ -10,7 +10,12 @@ Basing the example from this guide of [argparse](https://carlobaldassi.github.io
 3.  `add ArgParse`
 4.  control-c to quit
 
-Working example in cli-tools:
+Working example in cli-tools: `./calc.jl --num1 5 --num2 10`
+
+5. Setup lint (not sure how to do it!)
+https://www.julia-vscode.org/docs/stable/userguide/linter/
+https://github.com/aviatesk/JET.jl
+
 
 ## Episode 11: Metaprogramming
 

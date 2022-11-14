@@ -13,7 +13,8 @@
 			"extensions": [
 				"julialang.language-julia",
 				"GitHub.copilot-labs",
-				"GitHub.copilot-nightly"
+				"GitHub.copilot-nightly",
+				"0h7z.vscode-julia-format"
 			]
 		}
 	},
