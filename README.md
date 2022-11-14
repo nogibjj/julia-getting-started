@@ -3,6 +3,10 @@
 # julia-getting-started
 playing around with Julia
 
+## NEXT UP (figure out linting and testing)
+
+
+
 ## Nov 14th- More CLI
 Basing the example from this guide of [argparse](https://carlobaldassi.github.io/ArgParse.jl/stable/)
 1.  Launch julia
