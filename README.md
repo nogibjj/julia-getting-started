@@ -3,8 +3,15 @@
 # julia-getting-started
 playing around with Julia
 
-## NEXT UP (figure out linting and testing)
+## NEXT UP 
 
+## November 28th
+Experiment trying to get linting via a `Makefile` working
+
+
+
+* [GitHub Repo on official linting for Julia](https://github.com/domluna/JuliaFormatter.jl)
+* [julialang thread on linting](https://discourse.julialang.org/t/julia-code-formatter-code-beautifier/11485)
 
 
 ## Nov 14th- More CLI
