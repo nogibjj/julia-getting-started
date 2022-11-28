@@ -5,10 +5,13 @@ playing around with Julia
 
 ## NEXT UP 
 
+* try to get linting and/or CI/CD working for this repo.  [Use this GitHub Actions example.](https://github.com/domluna/JuliaFormatter.jl/blob/master/.github/workflows/ci.yml)
+
 ## November 28th
 Experiment trying to get linting via a `Makefile` working
 
-
+* tldr; was able to get lint working in a `Makefile` inside of cli-tools directory.
+* limitations:  requires manual package install. no clue how to reproduce Julia package installs!
 
 * [GitHub Repo on official linting for Julia](https://github.com/domluna/JuliaFormatter.jl)
 * [julialang thread on linting](https://discourse.julialang.org/t/julia-code-formatter-code-beautifier/11485)
