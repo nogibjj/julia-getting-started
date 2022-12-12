@@ -1,9 +1,17 @@
 [![Codespaces Prebuilds](https://github.com/nogibjj/julia-getting-started/actions/workflows/codespaces/create_codespaces_prebuilds/badge.svg)](https://github.com/nogibjj/julia-getting-started/actions/workflows/codespaces/create_codespaces_prebuilds)
 
+[![Julia](https://github.com/nogibjj/julia-getting-started/actions/workflows/JuliaDemo.yml/badge.svg)](https://github.com/nogibjj/julia-getting-started/actions/workflows/JuliaDemo.yml)
+
 # julia-getting-started
 playing around with Julia
 
+## Next Time
+
+* Continue to build out Julia automation in GitHub Actions....
+
 ## Dec 12th
+
+* at least got Julia to build in GitHub Actions
 
 * try to get linting and/or CI/CD working for this repo.  [Use this GitHub Actions example.](https://github.com/domluna/JuliaFormatter.jl/blob/master/.github/workflows/ci.yml)
 
