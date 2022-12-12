@@ -1,12 +1,7 @@
-name: Format
-
+name: Format Julia Code
 on:
   push:
-    branches:
-      - 'master'
-    tags: '*'
-  pull_request:
-
+    branches: "*"
 jobs:
   format:
     runs-on: ubuntu-latest
@@ -15,3 +10,5 @@ jobs:
     - uses: domluna/JuliaFormatter-action@master
       with:
         args: -v .
+      - name: lint
+        run: echo "hi"

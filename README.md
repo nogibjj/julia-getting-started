@@ -3,7 +3,7 @@
 # julia-getting-started
 playing around with Julia
 
-## NEXT UP 
+## Dec 12th
 
 * try to get linting and/or CI/CD working for this repo.  [Use this GitHub Actions example.](https://github.com/domluna/JuliaFormatter.jl/blob/master/.github/workflows/ci.yml)
 
