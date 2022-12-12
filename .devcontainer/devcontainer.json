@@ -14,7 +14,8 @@
 				"julialang.language-julia",
 				"GitHub.copilot-labs",
 				"GitHub.copilot-nightly",
-				"0h7z.vscode-julia-format"
+				"0h7z.vscode-julia-format",
+				"ms-vscode.makefile-tools"
 			]
 		}
 	},
