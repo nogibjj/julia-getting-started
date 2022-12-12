@@ -1,14 +1,19 @@
-name: Format Julia Code
-on:
-  push:
-    branches: "*"
+- name: Setup Julia environment
+  uses: julia-actions/setup-julia@v1.9.0
+
 jobs:
-  format:
-    runs-on: ubuntu-latest
+  test:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        julia-version: ['1.8']
+        os: [ubuntu-latest]
+
     steps:
-    - uses: actions/checkout@master
-    - uses: domluna/JuliaFormatter-action@master
-      with:
-        args: -v .
-      - name: lint
-        run: echo "hi"
+      - uses: actions/checkout@v1.0.0
+      - name: "Set up Julia"
+        uses: julia-actions/setup-julia@v1
+        with:
+          version: ${{ matrix.julia-version }}
+      - run: julia -e 'println("Hello, World!")'
+        shell: bash
